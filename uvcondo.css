@@ -1,0 +1,13 @@
+@font-face {
+	font-family: "UVM-Condo";
+	font-style: normal;
+	font-weight: normal;
+	src: local("UVM-Condo-Regular"), url("UVM-Condo-regular.woff") format("woff");
+}
+
+@font-face {
+	font-family: "UVM-Condo";
+	font-style: normal;
+	font-weight: bold;
+	src: local("UVM-Condo-Bold"), url("UVM-Condo-bold.woff") format("woff");
+}
